@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>
+    <ID>517100000</ID>
+    <FullName></FullName>
+    <DateBirth></DateBirth>
+    <Class></Class>
+    <Sex></Sex>
+    <Faculty></Faculty>
+  </Student>
+</Students>
